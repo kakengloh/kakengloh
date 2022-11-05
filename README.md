@@ -38,6 +38,13 @@ I'm KaKeng Loh, a full-stack Typescript / Go Software engineer from Malaysia ðŸ‡
     <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kakengloh/tsk?style=flat&labelColor=343b41"/></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/zephyr-js/zephyr"><b>Zephyr.js</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/zephyr-js/zephyr?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/zephyr-js/zephyr?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Issues" src="https://img.shields.io/github/issues/zephyr-js/zephyr?style=flat&labelColor=343b41"/></td>
+    <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/zephyr-js/zephyr?style=flat&labelColor=343b41"/></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/kakengloh/bagel"><b>Bagel</b></a></td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/kakengloh/bagel?style=flat&labelColor=343b41"/></td>
     <td><img alt="Forks" src="https://img.shields.io/github/forks/kakengloh/bagel?style=flat&labelColor=343b41"/></td>
